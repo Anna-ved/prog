@@ -1,0 +1,21 @@
+[ {
+  "id" : 1,
+  "name" : "Apple",
+  "coordinates" : {
+    "x" : 34,
+    "y" : 34.0
+  },
+  "creationDate" : [ 2025, 2, 25, 14, 28, 41, 964257500 ],
+  "annualTurnover" : 40000,
+  "fullName" : "",
+  "employeesCount" : 200000,
+  "type" : "PUBLIC",
+  "postalAddress" : {
+    "zipCode" : "7328",
+    "town" : {
+      "x" : 34,
+      "y" : 3,
+      "name" : "Apple"
+    }
+  }
+}]
